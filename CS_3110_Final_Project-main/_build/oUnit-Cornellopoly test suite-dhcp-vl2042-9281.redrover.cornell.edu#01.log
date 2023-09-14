@@ -1,0 +1,39 @@
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:0:Player turn Test 1.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:0:Player turn Test 1 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:0:Player turn Test 1.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:3:Player name test 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:3:Player name test 2 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:3:Player name test 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:4:Player name test 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:4:Player name test 2 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:4:Player name test 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:6:Valid player 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:6:Valid player 2 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:6:Valid player 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:7:Valid player 3.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:7:Valid player 3 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:7:Valid player 3.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:14:squarebyplayer1.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:14:squarebyplayer1 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:14:squarebyplayer1.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:21:buy 4.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:21:buy 4 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:21:buy 4.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:35:string3.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:35:string3 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:35:string3.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:45:Players.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:45:Players is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:45:Players.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:46:Squares 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:46:Squares 2 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:46:Squares 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:47:Players 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:47:Players 2 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:47:Players 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:48:Valid 1.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:48:Valid 1 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:48:Valid 1.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Start test Cornellopoly test suite:49:Valid 2.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: Test Cornellopoly test suite:49:Valid 2 is successful.
+2023-05-15T20:14:39+00:00 dhcp-vl2042-9281.redrover.cornell.edu#01 I: End test Cornellopoly test suite:49:Valid 2.

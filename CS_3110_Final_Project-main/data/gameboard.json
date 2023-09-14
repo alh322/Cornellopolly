@@ -1,0 +1,384 @@
+{
+  "squares": [
+    {
+      "property name": "Mallott Hall",
+      "set": "Brown",
+      "value": 60,
+      "base rent": 2,
+      "pos": 1
+    },
+    {
+      "property name": "Okenshield's Dining",
+      "set": "Brown",
+      "value": 60,
+      "base rent": 4,
+      "pos": 3
+    },
+    {
+      "property name": "Uris Hall",
+      "set": "Cyan",
+      "value": 100,
+      "base rent": 6,
+      "pos": 6
+    },
+    {
+      "property name": "Plant Sciences Building",
+      "set": "Cyan",
+      "value": 100,
+      "base rent": 6,
+      "pos": 8
+    },
+    {
+      "property name": "McGraw Hall",
+      "set": "Cyan",
+      "value": 120,
+      "base rent": 8,
+      "pos": 9
+    },
+    {
+      "property name": "Goldwin-Smith Hall",
+      "set": "Pink",
+      "value": 140,
+      "base rent": 10,
+      "pos": 11
+    },
+    {
+      "property name": "Baker Laboratory",
+      "set": "Pink",
+      "value": 140,
+      "base rent": 10,
+      "pos": 13
+    },
+    {
+      "property name": "Rockefeller Hall",
+      "set": "Pink",
+      "value": 140,
+      "base rent": 12,
+      "pos": 14
+    },
+    {
+      "property name": "Cornell Health",
+      "set": "Orange",
+      "value": 180,
+      "base rent": 14,
+      "pos": 16
+    },
+    {
+      "property name": "Annabel Taylor",
+      "set": "Orange",
+      "value": 180,
+      "base rent": 14,
+      "pos": 18
+    },
+    {
+      "property name": "Barton Hall",
+      "set": "Orange",
+      "value": 200,
+      "base rent": 16,
+      "pos": 19
+    },
+    {
+      "property name": "Warren Hall",
+      "set": "Red",
+      "value": 220,
+      "base rent": 18,
+      "pos": 21
+    },
+    {
+      "property name": "Kennedy Hall",
+      "set": "Red",
+      "value": 220,
+      "base rent": 18,
+      "pos": 23
+    },
+    {
+      "property name": "Physical Sciences Building",
+      "set": "Red",
+      "value": 240,
+      "base rent": 20,
+      "pos": 24
+    },
+    {
+      "property name": "Dairy Bar",
+      "set": "Yellow",
+      "value": 260,
+      "base rent": 22,
+      "pos": 26
+    },
+    {
+      "property name": "Art Museum",
+      "set": "Yellow",
+      "value": 260,
+      "base rent": 22,
+      "pos": 27
+    },
+    {
+      "property name": "Schoelkopf Field",
+      "set": "Yellow",
+      "value": 280,
+      "base rent": 24,
+      "pos": 29
+    },
+    {
+      "property name": "Upson Hall",
+      "set": "Green",
+      "value": 300,
+      "base rent": 26,
+      "pos": 31
+    },
+    {
+      "property name": "Klarman Hall",
+      "set": "Green",
+      "value": 300,
+      "base rent": 26,
+      "pos": 32
+    },
+    {
+      "property name": "Statler Hotel",
+      "set": "Green",
+      "value": 320,
+      "base rent": 28,
+      "pos": 34
+    },
+    {
+      "property name": "Gates Hall",
+      "set": "Blue",
+      "value": 350,
+      "base rent": 35,
+      "pos": 37
+    },
+    {
+      "property name": "Clock Tower",
+      "set": "Blue",
+      "value": 400,
+      "base rent": 50,
+      "pos": 39
+    },
+    {
+      "property name": "Uris Library",
+      "set": "Library",
+      "value": 200,
+      "base rent": 25,
+      "pos": 5
+    },
+    {
+      "property name": "Olin Library",
+      "set": "Library",
+      "value": 200,
+      "base rent": 25,
+      "pos": 15
+    },
+    {
+      "property name": "Mann Library",
+      "set": "Library",
+      "value": 200,
+      "base rent": 25,
+      "pos": 25
+    },
+    {
+      "property name": "Mui Ho Fine Arts Library",
+      "set": "Library",
+      "value": 200,
+      "base rent": 25,
+      "pos": 35
+    },
+    {
+      "property name": "Communitiy Chest 1",
+      "set": "Chance",
+      "value": 0,
+      "base rent": 0,
+      "pos": 2
+    },
+    {
+      "property name": "Communitiy Chest 2",
+      "set": "Chance",
+      "value": 0,
+      "base rent": 0,
+      "pos": 17
+    },
+    {
+      "property name": "Communitiy Chest 3",
+      "set": "Chance",
+      "value": 0,
+      "base rent": 0,
+      "pos": 33
+    },
+    {
+      "property name": "Chance 1",
+      "set": "Chance",
+      "value": 0,
+      "base rent": 0,
+      "pos": 7
+    },
+    {
+      "property name": "Chance 2",
+      "set": "Chance",
+      "value": 0,
+      "base rent": 0,
+      "pos": 22
+    },
+    {
+      "property name": "Chance 3",
+      "set": "Chance",
+      "value": 0,
+      "base rent": 0,
+      "pos": 36
+    },
+    {
+      "property name": "Jail",
+      "set": "Jail",
+      "value": 0,
+      "base rent": 0,
+      "pos": 10
+    },
+    {
+      "property name": "Go to Jail",
+      "set": "Jail",
+      "value": 0,
+      "base rent": 0,
+      "pos": 30
+    },
+    {
+      "property name": "Free Parking",
+      "set": "Grey",
+      "value": 0,
+      "base rent": 0,
+      "pos": 20
+    },
+    {
+      "property name": "Academic Advising",
+      "set": "Utility",
+      "value": 150,
+      "base rent": 0,
+      "pos": 12
+    },
+    {
+      "property name": "Career Services Center",
+      "set": "Utility",
+      "value": 150,
+      "base rent": 0,
+      "pos": 28
+    },
+    {
+      "property name": "Housing Payment",
+      "set": "Grey",
+      "value": 200,
+      "base rent": 0,
+      "pos": 4
+    },
+    {
+      "property name": "Meal Plan",
+      "set": "Grey",
+      "value": 100,
+      "base rent": 0,
+      "pos": 38
+    },
+    {
+      "property name": "Go",
+      "set": "Grey",
+      "value": 0,
+      "base rent": 0,
+      "pos": 0
+    }
+  ],
+  "rent multiplier": 5,
+  "house multiplier": 3,
+  "mortgage multiplier": 2,
+  "players": [
+    {
+      "player name": "Ruth Bader Ginsburg",
+      "cash": 1500,
+      "turn order": 0
+    },
+    {
+      "player name": "Bill Nye",
+      "cash": 1500,
+      "turn order": 1
+    },
+    {
+      "player name": "Martha Pollack",
+      "cash": 1500,
+      "turn order": 2
+    },
+    {
+      "player name": "AD White",
+      "cash": 1500,
+      "turn order": 3
+    }
+  ],
+  "first move": 0,
+  "chance cards": [
+    {
+      "index": 0,
+      "text": "It's your birthday! Recieve $50 from every player"
+    },
+    {
+      "index": 1,
+      "text": "You and your friends go to Collegetown for dinner, and you're feeling generous. Pay $10 to every player"
+    },
+    {
+      "index": 2,
+      "text": "Your frat party gets too loud, and Martha Pollack is woken up. Pay $200"
+    },
+    {
+      "index": 3,
+      "text": "CUPD caught you for a speeding ticket. Pay $125"
+    },
+    {
+      "index": 4,
+      "text": "You set off the fire alarm in Ganedago. Pay $75"
+    },
+    {
+      "index": 5,
+      "text": "Michael Clarkson overhears you complaining about functional programming. Pay $25"
+    },
+    {
+      "index": 6,
+      "text": "You're chosen to be a TA for CS 3110. Recieve $250"
+    },
+    {
+      "index": 7,
+      "text": "You just copped a pair of hot sneakers on drop day. Recieve $175"
+    },
+    {
+      "index": 8,
+      "text": "You ace your prelim that you studied for the same morning. Receive $100"
+    },
+    {
+      "index": 9,
+      "text": "Fontana's Shoes pays you to promote their new snow boots. Recieve $25"
+    },
+    {
+      "index": 10,
+      "text": "You decide to be Robin Hood for the day. Rob the richest player for 25% of their wealth"
+    },
+    {
+      "index": 11,
+      "text": "You leave your dorm room unlocked. The poorest player has robbed you for 25% of your wealth"
+    },
+    {
+      "index": 12,
+      "text": "It's the night before the CS 3110 prelim and you need to cram. Advance to the nearest library."
+    },
+    {
+      "index": 13,
+      "text": "It's your graduation! Advance to Schoelkopf Field."
+    },
+    {
+      "index": 14,
+      "text": "Your friend brings their car to campus. Advance 5 steps"
+    },
+    {
+      "index": 15,
+      "text": "You took the wrong TCAT, ended up at Ithaca College, and need to find your way home. Move back 3 steps"
+    },
+    {
+      "index": 16,
+      "text": "Go to Jail"
+    },
+    {
+      "index": 17,
+      "text": "David Gries comes out of retirement to grant you amnesty. You can now Get Out of Jail Free."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+(lang dune 3.7)
+(name Cornellopoly)
+(sections (lib .) (libexec .) (doc ../../doc/Cornellopoly))
+(files
+ (lib
+  (META
+   cornellopoly.a
+   cornellopoly.cma
+   cornellopoly.cmi
+   cornellopoly.cmt
+   cornellopoly.cmx
+   cornellopoly.cmxa
+   cornellopoly.ml
+   cornellopoly__Square.cmi
+   cornellopoly__Square.cmt
+   cornellopoly__Square.cmti
+   cornellopoly__Square.cmx
+   dune-package
+   opam
+   square.ml
+   square.mli))
+ (libexec (cornellopoly.cmxs))
+ (doc (README.md)))
+(library
+ (name Cornellopoly)
+ (kind normal)
+ (archives (byte cornellopoly.cma) (native cornellopoly.cmxa))
+ (plugins (byte cornellopoly.cma) (native cornellopoly.cmxs))
+ (native_archives cornellopoly.a)
+ (requires yojson ANSITerminal)
+ (main_module_name Cornellopoly)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name cornellopoly)
+     (visibility public)
+     (kind alias)
+     (source (path Cornellopoly) (impl (path cornellopoly.ml-gen))))
+    (name Cornellopoly)
+    (modules
+     (module
+      (obj_name cornellopoly__Square)
+      (visibility public)
+      (source (path Square) (intf (path square.mli)) (impl (path square.ml))))))
+   (wrapped true))))

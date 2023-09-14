@@ -1,0 +1,24 @@
+lib: [
+  "_build/install/default/lib/Cornellopoly/META"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.a"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.cma"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.cmi"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.cmt"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.cmx"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.cmxa"
+  "_build/install/default/lib/Cornellopoly/cornellopoly.ml"
+  "_build/install/default/lib/Cornellopoly/cornellopoly__Square.cmi"
+  "_build/install/default/lib/Cornellopoly/cornellopoly__Square.cmt"
+  "_build/install/default/lib/Cornellopoly/cornellopoly__Square.cmti"
+  "_build/install/default/lib/Cornellopoly/cornellopoly__Square.cmx"
+  "_build/install/default/lib/Cornellopoly/dune-package"
+  "_build/install/default/lib/Cornellopoly/opam"
+  "_build/install/default/lib/Cornellopoly/square.ml"
+  "_build/install/default/lib/Cornellopoly/square.mli"
+]
+libexec: [
+  "_build/install/default/lib/Cornellopoly/cornellopoly.cmxs"
+]
+doc: [
+  "_build/install/default/doc/Cornellopoly/README.md"
+]

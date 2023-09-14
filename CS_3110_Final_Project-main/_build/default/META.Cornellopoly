@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal yojson"
+archive(byte) = "cornellopoly.cma"
+archive(native) = "cornellopoly.cmxa"
+plugin(byte) = "cornellopoly.cma"
+plugin(native) = "cornellopoly.cmxs"

@@ -1,0 +1,4 @@
+(library
+ (name cornellopoly)
+ (public_name Cornellopoly)
+ (libraries yojson ANSITerminal))
